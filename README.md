@@ -9,6 +9,10 @@ A modern **Snake Game** built with **HTML, CSS, and Vanilla JavaScript** featuri
 
 ---
 
+## 🌍 Live Demo
+
+---
+
 ## 🎯 Project Purpose
 
 This project was developed as part of a mini projects to strengthen:
@@ -74,4 +78,15 @@ This project was developed as part of a mini projects to strengthen:
 ✅ Game ends on: 
    - Wall collision
    - Self collision
-✅ High score updates automatically 
+✅ High score updates automatically
+
+---
+
+## Folder Structure
+
+/snake-game
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+
