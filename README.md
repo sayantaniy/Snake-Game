@@ -11,7 +11,7 @@ A modern **Snake Game** built with **HTML, CSS, and Vanilla JavaScript** featuri
 
 ## 🎯 Project Purpose
 
-This project was developed as part of a **BTech CSE (AIML)** mini project to strengthen:
+This project was developed as part of a mini projects to strengthen:
 - DOM Manipulation
 - Game Logic using JavaScript
 - Event Handling
