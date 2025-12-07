@@ -55,3 +55,9 @@ This project was developed as part of a mini projects to strengthen:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/snake-game.git
+
+2. Open the project folder.
+
+3. Run index.html using:
+    - Live Server (VS Code), or
+    - Any browser
