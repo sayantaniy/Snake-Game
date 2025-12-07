@@ -61,3 +61,17 @@ This project was developed as part of a mini projects to strengthen:
 3. Run index.html using:
     - Live Server (VS Code), or
     - Any browser
+
+---
+  
+## 🧠 Game Logic Summary
+
+✅ Snake moves in grid format.
+✅ Food is randomly generated.
+✅ Each food eaten increases:
+✅ Snake length
+✅ Score
+✅ Game ends on:
+   - Wall collision
+   - Self collision
+✅ High score updates automatically.
