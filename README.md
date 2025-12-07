@@ -11,6 +11,8 @@ A modern **Snake Game** built with **HTML, CSS, and Vanilla JavaScript** featuri
 
 ## 🌍 Live Demo
 
+https://sayantaniy.github.io/Snake-Game/
+
 ---
 
 ## 🎯 Project Purpose
