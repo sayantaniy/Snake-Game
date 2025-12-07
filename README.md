@@ -86,15 +86,5 @@ This project was developed as part of a mini projects to strengthen:
 
 ---
 
-## Folder Structure
-
-/snake-game
-│── index.html
-
-│── style.css
-
-│── script.js
-
-└── README.md
 
 
