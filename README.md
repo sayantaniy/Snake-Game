@@ -21,12 +21,12 @@ This project was developed as part of a mini projects to strengthen:
 
 ## 🚀 Features
 
-- ✅ Smooth snake movement  
-- ✅ Live score tracking  
-- ✅ High score system  
-- ✅ Game timer  
-- ✅ Collision detection  
-- ✅ Responsive game board  
+- ✅ Smooth snake movement   
+- ✅ Live score tracking   
+- ✅ High score system   
+- ✅ Game timer   
+- ✅ Collision detection   
+- ✅ Responsive game board   
 - ✅ Clean dark UI  
 
 ---
@@ -66,12 +66,12 @@ This project was developed as part of a mini projects to strengthen:
   
 ## 🧠 Game Logic Summary
 
-✅ Snake moves in grid format.
-✅ Food is randomly generated.
-✅ Each food eaten increases:
-✅ Snake length
-✅ Score
-✅ Game ends on:
+✅ Snake moves in grid format 
+✅ Food is randomly generated 
+✅ Each food eaten increases: 
+- Snake length
+- Score
+✅ Game ends on: 
    - Wall collision
    - Self collision
-✅ High score updates automatically.
+✅ High score updates automatically 
