@@ -72,15 +72,17 @@ This project was developed as part of a mini projects to strengthen:
   
 ## 🧠 Game Logic Summary
 
-✅ Snake moves in grid format 
-✅ Food is randomly generated 
-✅ Each food eaten increases: 
+✅ Snake moves in grid format  
+✅ Food is randomly generated  
+✅ Each food eaten increases:
 - Snake length
-- Score
-✅ Game ends on: 
-   - Wall collision
-   - Self collision
-✅ High score updates automatically
+- Score  
+
+✅ Game ends on:
+- Wall collision  
+- Self collision  
+
+✅ High score updates automatically  
 
 ---
 
@@ -88,7 +90,11 @@ This project was developed as part of a mini projects to strengthen:
 
 /snake-game
 │── index.html
+
 │── style.css
+
 │── script.js
+
 └── README.md
+
 
